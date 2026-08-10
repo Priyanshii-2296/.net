@@ -1,0 +1,11 @@
+D:\DEGREE\sem 5\.NET\Practical\MyLibrary\bin\Debug\net10.0\MyLibrary.deps.json
+D:\DEGREE\sem 5\.NET\Practical\MyLibrary\bin\Debug\net10.0\MyLibrary.dll
+D:\DEGREE\sem 5\.NET\Practical\MyLibrary\bin\Debug\net10.0\MyLibrary.pdb
+D:\DEGREE\sem 5\.NET\Practical\MyLibrary\obj\Debug\net10.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEGREE\sem 5\.NET\Practical\MyLibrary\obj\Debug\net10.0\MyLibrary.AssemblyInfoInputs.cache
+D:\DEGREE\sem 5\.NET\Practical\MyLibrary\obj\Debug\net10.0\MyLibrary.AssemblyInfo.cs
+D:\DEGREE\sem 5\.NET\Practical\MyLibrary\obj\Debug\net10.0\MyLibrary.csproj.CoreCompileInputs.cache
+D:\DEGREE\sem 5\.NET\Practical\MyLibrary\obj\Debug\net10.0\MyLibrary.dll
+D:\DEGREE\sem 5\.NET\Practical\MyLibrary\obj\Debug\net10.0\refint\MyLibrary.dll
+D:\DEGREE\sem 5\.NET\Practical\MyLibrary\obj\Debug\net10.0\MyLibrary.pdb
+D:\DEGREE\sem 5\.NET\Practical\MyLibrary\obj\Debug\net10.0\ref\MyLibrary.dll
