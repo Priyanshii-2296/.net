@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|d:\\degree\\sem 5\\.net\\practical\\webapplication1\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|solutionrelative:homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|d:\\degree\\sem 5\\.net\\practical\\webapplication1\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|d:\\degree\\sem 5\\.net\\practical\\webapplication1\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|solutionrelative:home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|d:\\degree\\sem 5\\.net\\practical\\webapplication1\\adrotatorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|solutionrelative:adrotatorpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|d:\\degree\\sem 5\\.net\\practical\\webapplication1\\adrotatorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|solutionrelative:adrotatorpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|d:\\degree\\sem 5\\.net\\practical\\webapplication1\\gridviewpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|solutionrelative:gridviewpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|d:\\degree\\sem 5\\.net\\practical\\webapplication1\\gridviewpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|solutionrelative:gridviewpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|d:\\degree\\sem 5\\.net\\practical\\webapplication1\\datalistpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|solutionrelative:datalistpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|d:\\degree\\sem 5\\.net\\practical\\webapplication1\\datalistpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|solutionrelative:datalistpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|d:\\degree\\sem 5\\.net\\practical\\webapplication1\\validationpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|solutionrelative:validationpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|d:\\degree\\sem 5\\.net\\practical\\webapplication1\\validationpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|solutionrelative:validationpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|d:\\degree\\sem 5\\.net\\practical\\webapplication1\\ads.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{61D1D8E6-BC21-4F22-9DBF-6B8C7A5EA273}|WebApplication1.csproj|solutionrelative:ads.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdRotatorPage.aspx.cs",
+              "DocumentMoniker": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\AdRotatorPage.aspx.cs",
+              "RelativeDocumentMoniker": "AdRotatorPage.aspx.cs",
+              "ToolTip": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\AdRotatorPage.aspx.cs",
+              "RelativeToolTip": "AdRotatorPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T07:58:09.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdRotatorPage.aspx",
+              "DocumentMoniker": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\AdRotatorPage.aspx",
+              "RelativeDocumentMoniker": "AdRotatorPage.aspx",
+              "ToolTip": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\AdRotatorPage.aspx",
+              "RelativeToolTip": "AdRotatorPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-19T07:57:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "Home.aspx.cs",
+              "ToolTip": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\Home.aspx.cs",
+              "RelativeToolTip": "Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T07:57:51.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\Home.aspx",
+              "RelativeDocumentMoniker": "Home.aspx",
+              "ToolTip": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\Home.aspx",
+              "RelativeToolTip": "Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-19T07:57:43.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\HomePage.aspx",
+              "RelativeDocumentMoniker": "HomePage.aspx",
+              "ToolTip": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\HomePage.aspx",
+              "RelativeToolTip": "HomePage.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-19T07:53:45.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ads.xml",
+              "DocumentMoniker": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\Ads.xml",
+              "RelativeDocumentMoniker": "Ads.xml",
+              "ToolTip": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\Ads.xml",
+              "RelativeToolTip": "Ads.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-08-19T07:58:59.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidationPage.aspx.cs",
+              "DocumentMoniker": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\ValidationPage.aspx.cs",
+              "RelativeDocumentMoniker": "ValidationPage.aspx.cs",
+              "ToolTip": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\ValidationPage.aspx.cs",
+              "RelativeToolTip": "ValidationPage.aspx.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIBJwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T07:58:53.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidationPage.aspx",
+              "DocumentMoniker": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\ValidationPage.aspx",
+              "RelativeDocumentMoniker": "ValidationPage.aspx",
+              "ToolTip": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\ValidationPage.aspx",
+              "RelativeToolTip": "ValidationPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-19T07:58:46.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataListPage.aspx.cs",
+              "DocumentMoniker": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\DataListPage.aspx.cs",
+              "RelativeDocumentMoniker": "DataListPage.aspx.cs",
+              "ToolTip": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\DataListPage.aspx.cs",
+              "RelativeToolTip": "DataListPage.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIBJwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T07:58:35.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataListPage.aspx",
+              "DocumentMoniker": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\DataListPage.aspx",
+              "RelativeDocumentMoniker": "DataListPage.aspx",
+              "ToolTip": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\DataListPage.aspx",
+              "RelativeToolTip": "DataListPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-19T07:58:28.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridViewPage.aspx.cs",
+              "DocumentMoniker": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\GridViewPage.aspx.cs",
+              "RelativeDocumentMoniker": "GridViewPage.aspx.cs",
+              "ToolTip": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\GridViewPage.aspx.cs",
+              "RelativeToolTip": "GridViewPage.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIBJwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T07:58:21.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GridViewPage.aspx",
+              "DocumentMoniker": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\GridViewPage.aspx",
+              "RelativeDocumentMoniker": "GridViewPage.aspx",
+              "ToolTip": "D:\\DEGREE\\sem 5\\.NET\\Practical\\WebApplication1\\GridViewPage.aspx",
+              "RelativeToolTip": "GridViewPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-19T07:58:15.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

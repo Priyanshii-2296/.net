@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+	<ImageUrl>https://via.placeholder.com/468x60?text=Ad+1</ImageUrl>
+	<NavigateUrl>https://example.com/ad1</NavigateUrl>
+	<AlternateText>Ad 1</AlternateText>
+	<Keyword>promo</Keyword>
+  </Ad>
+  <Ad>
+	<ImageUrl>https://via.placeholder.com/468x60?text=Ad+2</ImageUrl>
+	<NavigateUrl>https://example.com/ad2</NavigateUrl>
+	<AlternateText>Ad 2</AlternateText>
+	<Keyword>sale</Keyword>
+  </Ad>
+  <Ad>
+	<ImageUrl>https://via.placeholder.com/468x60?text=Ad+3</ImageUrl>
+	<NavigateUrl>https://example.com/ad3</NavigateUrl>
+	<AlternateText>Ad 3</AlternateText>
+	<Keyword>offer</Keyword>
+  </Ad>
+</Advertisements>
