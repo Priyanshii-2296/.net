@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Practical_6.Models.Product>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+
+<body>
+    <div class="container mt-5">
+
+        <h2 class="text-center mb-4">Product Catalog</h2>
+
+        <table class="table table-bordered table-striped">
+
+            <thead class="table-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Product Name</th>
+                    <th>Category</th>
+                    <th>Price</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.ProductID</td>
+                        <td>@product.Name</td>
+                        <td>@product.Category</td>
+                        <td>@product.Price</td>
+                        <td>@product.Description</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>

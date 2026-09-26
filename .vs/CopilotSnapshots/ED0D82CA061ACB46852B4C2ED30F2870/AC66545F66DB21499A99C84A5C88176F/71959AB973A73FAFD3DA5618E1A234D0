@@ -1,0 +1,46 @@
+﻿@model Practical_6.Models.Product
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+
+<body>
+    <div class="container mt-5">
+
+        <h2 class="text-center mb-4">Product Catalog</h2>
+
+        <table class="table table-bordered table-striped">
+
+            <thead class="table-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Product Name</th>
+                    <th>Category</th>
+                    <th>Price</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@Model.ProductID</td>
+                        <td>@Model.Name</td>
+                        <td>@Model.Category</td>
+                        <td>@Model.Price</td>
+                        <td>@Model.Description</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>
